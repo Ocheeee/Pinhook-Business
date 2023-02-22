@@ -3091,13 +3091,13 @@ textarea.form-control-lg {
 
 .btn-success {
   color: #fff;
-  background-color: #198754;
-  border-color: #198754;
+  background-color: #ffc800;
+  border-color: #ffc800;
 }
 .btn-success:hover {
   color: #fff;
-  background-color: #157347;
-  border-color: #146c43;
+  background-color: #ffc800;
+  border-color: #ffc800;
 }
 .btn-check:focus + .btn-success, .btn-success:focus {
   color: #fff;
@@ -11410,27 +11410,27 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/Background.jpeg") ;
+  background-image: url("../assets/img/WhatsApp Image 2023-02-18 at 10.00.11 AM - Editado.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
-  background-color: #ffffff2b;
 }
 
-/*
-.masthead:before {
-  content: "";
-  background-image: url("../assets/img/Background.jpeg");
-  background-size: cover;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  background: rgba(0, 0, 0, 0.25);
+@media (min-width: 2034px) {
+  header.masthead:hover {
+    content: "";
+    background-image: url("../assets/img/Background.jpeg");
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.25);
+  }
 }
-*/
+
 
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
